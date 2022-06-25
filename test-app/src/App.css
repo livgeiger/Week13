@@ -1,0 +1,46 @@
+
+.App {
+  text-align: center;
+  justify-content: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container-fluid{
+  background-color: aqua;
+  border: 2px solid black;
+  justify-content: center;
+}
+
+.navbar{
+  align-items: flex-start;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  justify-content: center;
+  color: #282c34;
+}
+
+.navlink{
+  color: #282c34;
+}
+
+.content-box{
+  height: 300px;
+  width: 300px;
+  border: 5 px solid black;
+}
